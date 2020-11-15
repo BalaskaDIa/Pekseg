@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pekseg", "Pekseg\Pekseg.csproj", "{FF125F65-2E6B-49A7-911A-C8666E4C606D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF125F65-2E6B-49A7-911A-C8666E4C606D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF125F65-2E6B-49A7-911A-C8666E4C606D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF125F65-2E6B-49A7-911A-C8666E4C606D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF125F65-2E6B-49A7-911A-C8666E4C606D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85491B9B-7F24-4B66-A73F-F8A91E420AD5}
+	EndGlobalSection
+EndGlobal

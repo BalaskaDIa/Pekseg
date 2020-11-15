@@ -1,0 +1,15 @@
+C:\Users\Dia\source\repos\Pekseg\Pekseg\bin\Debug\netcoreapp3.1\Pekseg.exe
+C:\Users\Dia\source\repos\Pekseg\Pekseg\bin\Debug\netcoreapp3.1\Pekseg.deps.json
+C:\Users\Dia\source\repos\Pekseg\Pekseg\bin\Debug\netcoreapp3.1\Pekseg.runtimeconfig.json
+C:\Users\Dia\source\repos\Pekseg\Pekseg\bin\Debug\netcoreapp3.1\Pekseg.runtimeconfig.dev.json
+C:\Users\Dia\source\repos\Pekseg\Pekseg\bin\Debug\netcoreapp3.1\Pekseg.dll
+C:\Users\Dia\source\repos\Pekseg\Pekseg\bin\Debug\netcoreapp3.1\Pekseg.pdb
+C:\Users\Dia\source\repos\Pekseg\Pekseg\obj\Debug\netcoreapp3.1\Pekseg.csprojAssemblyReference.cache
+C:\Users\Dia\source\repos\Pekseg\Pekseg\obj\Debug\netcoreapp3.1\Pekseg.Form1.resources
+C:\Users\Dia\source\repos\Pekseg\Pekseg\obj\Debug\netcoreapp3.1\Pekseg.csproj.GenerateResource.cache
+C:\Users\Dia\source\repos\Pekseg\Pekseg\obj\Debug\netcoreapp3.1\Pekseg.AssemblyInfoInputs.cache
+C:\Users\Dia\source\repos\Pekseg\Pekseg\obj\Debug\netcoreapp3.1\Pekseg.AssemblyInfo.cs
+C:\Users\Dia\source\repos\Pekseg\Pekseg\obj\Debug\netcoreapp3.1\Pekseg.csproj.CoreCompileInputs.cache
+C:\Users\Dia\source\repos\Pekseg\Pekseg\obj\Debug\netcoreapp3.1\Pekseg.dll
+C:\Users\Dia\source\repos\Pekseg\Pekseg\obj\Debug\netcoreapp3.1\Pekseg.pdb
+C:\Users\Dia\source\repos\Pekseg\Pekseg\obj\Debug\netcoreapp3.1\Pekseg.genruntimeconfig.cache
