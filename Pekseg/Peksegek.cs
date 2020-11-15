@@ -9,7 +9,6 @@ namespace Pekseg
         private string nev;
         private List<Pekaruk> termekek;
         private DateTime alapitva;
-
         public Peksegek(string nev, DateTime alapitva)
         {
             this.nev = nev;
